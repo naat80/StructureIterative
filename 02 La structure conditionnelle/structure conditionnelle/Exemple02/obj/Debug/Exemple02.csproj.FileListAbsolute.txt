@@ -1,0 +1,7 @@
+K:\M. Verghote\Bloc 1\Base de la programmation\02 La structure conditionnelle\structure conditionnelle\Exemple02\bin\Debug\Exemple02.exe.config
+K:\M. Verghote\Bloc 1\Base de la programmation\02 La structure conditionnelle\structure conditionnelle\Exemple02\bin\Debug\Exemple02.exe
+K:\M. Verghote\Bloc 1\Base de la programmation\02 La structure conditionnelle\structure conditionnelle\Exemple02\bin\Debug\Exemple02.pdb
+K:\M. Verghote\Bloc 1\Base de la programmation\02 La structure conditionnelle\structure conditionnelle\Exemple02\obj\Debug\Exemple02.csproj.AssemblyReference.cache
+K:\M. Verghote\Bloc 1\Base de la programmation\02 La structure conditionnelle\structure conditionnelle\Exemple02\obj\Debug\Exemple02.csproj.CoreCompileInputs.cache
+K:\M. Verghote\Bloc 1\Base de la programmation\02 La structure conditionnelle\structure conditionnelle\Exemple02\obj\Debug\Exemple02.exe
+K:\M. Verghote\Bloc 1\Base de la programmation\02 La structure conditionnelle\structure conditionnelle\Exemple02\obj\Debug\Exemple02.pdb
